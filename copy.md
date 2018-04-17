@@ -52,7 +52,7 @@ I co-founded [Pathwright](www.pathwright.com) with my twin brother, [Paul](www.t
 
 ### Where I hang out online
 
-I tweet on [Twitter](http://twitter.com/wmdmark), code on [Github](http://github.com/wmdmark), and write on [Medium](http://www.medium.com/wmdmark).
+I tweet on [Twitter](http://twitter.com/wmdmark), code on [Github](http://github.com/wmdmark), and write on [Medium](http://www.medium.com/@wmdmark).
 
 
 
